@@ -1,0 +1,4 @@
+﻿device_type,total_transactions,fraud_transactions,fraud_rate_pct
+Android,17525,1791,10.22
+Web,11401,1157,10.15
+iPhone,15291,1567,10.25

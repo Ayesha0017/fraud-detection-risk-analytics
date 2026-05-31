@@ -1,0 +1,4 @@
+﻿channel,total_transactions,total_amount,fraud_transactions,fraud_rate_pct
+UPI,20067,510760966.2,1407,7.01
+Card,15414,452448698.1,1142,7.41
+NetBanking,8736,709784819.9,1966,22.5

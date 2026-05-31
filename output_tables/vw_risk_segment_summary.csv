@@ -1,0 +1,5 @@
+﻿risk_segment,total_transactions,avg_risk_score,fraud_transactions,fraud_rate_pct
+Critical Risk,725,81.958276,436,0.601379
+High Risk,7640,61.50072,2016,0.263874
+Low Risk,13900,19.984029,349,0.025108
+Medium Risk,21952,35.761707,1714,0.078079
