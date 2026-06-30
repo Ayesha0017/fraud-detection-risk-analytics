@@ -3,7 +3,7 @@
 An end-to-end analytics and machine learning solution for detecting fraudulent banking transactions, monitoring customer risk, and supporting fraud investigation teams through SQL analytics, behavioral risk scoring, predictive modeling, and Power BI dashboards.
 
 ---
-
+git add README.md
 ## Project Overview
 
 This project simulates a digital banking fraud detection system built around four layers:
